@@ -1,0 +1,19 @@
+﻿#expand:hover {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.imgSlider {
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slider1 {
+    background-image: url(../img/img-clinic-1.jpg);
+}
+
+.slider2 {
+    background-image: url(../img/img-clinic-2.jpg);
+}
